@@ -11,6 +11,5 @@ public class Kata1 {
         date.set(1949, 11, 15);
         Person person = new Person("Pepito", date);
          System.out.println(person.getName()+ " tiene " + person.getAge()+ " años ");
-         sout
     }
 }
